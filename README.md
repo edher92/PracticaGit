@@ -1,4 +1,5 @@
-#Que rollo con el pollo</h1>
+#Que rollo con el pollo
+
 ##Generation:
 1. Rigo
 2. Bono
@@ -8,7 +9,9 @@ _Formula para convertir area en circulo_
 
 >So sally can't wait
 >She knows it's too late
-Circulo | Funcionr
+
+
+Circulo | Funcion
 ------------ | -------------
 area | pi * radio al cuadrao
 
