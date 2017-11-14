@@ -1,6 +1,6 @@
-#Que rollo con el pollo
+# Que rollo con el pollo
 
-##Generation:
+## Generation:
 1. Rigo
 2. Bono
 3. Alvarez
